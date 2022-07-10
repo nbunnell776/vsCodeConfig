@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.enabled": false,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.panel.defaultLocation": "right",
+}
